@@ -8,7 +8,7 @@ explore those questions.
 
 Other places you can find me :
 - 🪴 Blog : [Vort.org](https://vort.org)
-- 🦣 Mastodon : <a rel="me" href="https://ecoevo.social/@ryneches">@ryneches@ecoevo.social</a>
+- 🦣 Mastodon : <a rel="me" href="https://ecoevo.social/@ryneches">@ryneches @ecoevo.social</a>
 - 📜 Scholar : [ryneches](https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en)
 - ✒️ ORCID : [0000-0002-2055-8381](https://orcid.org/0000-0002-2055-8381)
 - 🦃 Stupid bird webpage : [@ryneches](https://twitter.com/ryneches)
