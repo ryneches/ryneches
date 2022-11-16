@@ -1,6 +1,6 @@
 ### Russell's GitHub stuff
 
-Hey! I'm a JSPS postdoctoral fellow at Kyoto University. Right now, I'm studing the evolution of
+Hey! I'm a JSPS postdoctoral fellow at Kyoto University. Right now, I'm studying the evolution of
 [Nucleocytoviricota](https://en.wikipedia.org/wiki/Nucleocytoviricota), which includes the 
 [giant viruses](https://en.wikipedia.org/wiki/Giant_virus). I build theoretical approaches to
 evolutionary questions, and sometimes [write software](https://github.com/ryneches/SuchTree) to
