@@ -11,7 +11,8 @@ Other places you can find me :
 - 🦣 Mastodon : <a rel="me" href="https://ecoevo.social/@ryneches">@ryneches @ecoevo.social</a>
 - 📜 Scholar : [ryneches](https://scholar.google.com/citations?user=Xis0TMUAAAAJ&hl=en)
 - ✒️ ORCID : [0000-0002-2055-8381](https://orcid.org/0000-0002-2055-8381)
-- 🦃 Stupid bird webpage : [@ryneches](https://twitter.com/ryneches)
+- ~~🦃 Stupid bird webpage : [@ryneches](https://twitter.com/ryneches)~~
+- 🦋 Bluesky : [@ryneches.bsky.social](https://ryneches.bsky.social)
 - 📸 Flickr : [https://www.flickr.com/photos/rneches/](https://www.flickr.com/photos/rneches/)
 - ⚗️ Laboratory : [京都大学化学研究所](https://cls.kuicr.kyoto-u.ac.jp/en_member/russell-young-neches/)
 
